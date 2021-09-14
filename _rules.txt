@@ -1,5 +1,5 @@
 
-``` whistle.chii/inspect.html
+``` whistle.chii-plus/inspect.html
 <script>
     function escapeJs(str) {
       if (!str || typeof str !== 'string') {
@@ -29,10 +29,10 @@
       });
   };
 
-  window.ChiiTitle = escapeJs('${whistle.chii}') || 'anonymous';
-  window.ChiiServerUrl = location.host + '/...whistle-path.5b6af7b9884e1165...///whistle.chii';
+  window.ChiiTitle = escapeJs('${whistle.chii-plus}') || 'anonymous';
+  window.ChiiServerUrl = location.host + '/...whistle-path.5b6af7b9884e1165...///whistle.chii-plus';
 </script>
-<script src='/...whistle-path.5b6af7b9884e1165...///whistle.chii/target.js'}'></script>
+<script src='/...whistle-path.5b6af7b9884e1165...///whistle.chii-plus/target.js'}'></script>
 ```
 
-* htmlAppend://`{whistle.chii/inspect.html}` enable://safeHtml
+* htmlAppend://`{whistle.chii-plus/inspect.html}` enable://safeHtml
