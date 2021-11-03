@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liriliri/whistle.chii.git"
+    "url": "git+https://github.com/gongpeione/whistle.chii.git"
   },
   "keywords": [
     "whistle",
@@ -22,9 +22,9 @@
   "author": "redhoodsu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liriliri/whistle.chii/issues"
+    "url": "https://github.com/gongpeione/whistle.chii/issues"
   },
-  "homepage": "https://github.com/liriliri/whistle.chii#readme",
+  "homepage": "https://github.com/gongpeione/whistle.chii#readme",
   "dependencies": {
     "chii": "^0.6.6"
   },
